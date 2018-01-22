@@ -1,0 +1,48 @@
+body {
+  overflow: hidden;
+  height: 150vh;
+  color: #000;
+  background-color: #fff;
+  background-image: url('thatsparrow_int.svg');
+  background-repeat: no-repeat;
+  background-position: center 95%;
+  background-size: 120%;
+  font-family: 'Montserrat', san-serif;
+  font-size: 16px;
+}
+
+section {
+  margin-top: 120px;
+}
+
+h1 {
+  opacity: 0.7;
+  font-size: 4rem;
+}
+
+a {
+  margin-right: 15px;
+  opacity: 0.4;
+  color: white;
+  font-size: 3.5rem;
+}
+
+a:hover, a:focus {
+  text-decoration: none;
+  opacity: 0.5;
+  color: white;
+}
+
+@media (min-width: 768px) {
+  body {
+    background-position: center 80%;
+  }
+  section {
+    margin-top: 15px;
+  }
+  h1 {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-size: 6rem;
+  }
+}
