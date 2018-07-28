@@ -1,0 +1,3 @@
+Contact: security@osiris.agency
+PGP-key: http://osiris.agency/pgp-key.txt
+Disclosure: Full
