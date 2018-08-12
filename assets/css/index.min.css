@@ -1209,7 +1209,7 @@ i {
 	text-align: center;
 	max-width: 70%;
 	margin: 0 auto;
-	width: 700px
+	width: 800px
 }
 
 .wrapper .main-page .main-text h1 {
@@ -1309,7 +1309,7 @@ footer .media a i {
 }
 
 footer .map-background {
-	background-image: url(file:///home/sparrow/Desktop/smelly/images/maps/map-footer.svg);
+	background-image: url(http://osiris.agency/assets/img/map-footer.svg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: 500px;
