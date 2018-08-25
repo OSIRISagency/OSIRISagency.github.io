@@ -403,7 +403,7 @@ ul {
 }
 
 .green-block {
-	background-color: #fbfbfb
+	background-color: #fff
 }
 
 .green-block.small-block .top_button {
@@ -415,7 +415,7 @@ ul {
 }
 
 .gray-light-block {
-	background-color: #fbfbfb
+	background-color: #fff
 }
 
 .green-block.gray-light-block .info-block {
@@ -1796,7 +1796,7 @@ div.popup {
 }
 
 .gray-light-block.not-found {
-	background-color: #fbfbfb
+	background-color: #fff
 }
 
 .gray-light-block.not-found h2 {

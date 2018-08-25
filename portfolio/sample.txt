@@ -1,0 +1,28 @@
+Drunk-athon IV
+Date: February 2nd, 2018 
+Time: 10:00 pm 
+Venue: The Lounge 
+
+###
+
+[QUESTION: 01] 
+
+Create a single-page web app using an open-source front-end web framework of your choice. Use the font type "Tangerine" from Google Fonts API to describe the front-end web framework you used (i.e. 25 words at least) in the body of a <div>. Insert an SVG logo of the framework in the body of another <div>. Must incluce sample navigation bar and footer. Text needs to have 3 different font sizes. Run web app on a local server. Share screenshot. 
+
+[QUESTION: 02] 
+
+Create a folder called "temp" on your local machine. In this folder, write an implementation in your choice of 1 language. The implementation must find every 7th number from 0 to 1000, save them into an array called "lulzcatz" and print out the value of "lulzcatz". Include a screenshot of the output inside the folder. Turn the "temp" folder into an online repository and make sure to push its folder contents. Don't forget to comment commits. Share link. 
+
+[QUESTION: 03] 
+
+Write a mergesort implementation in your choice of 2 languages. Share screenshot. 
+
+###
+
+Leaderboard:    
+
+2,000 ml beer @flyAlex 2 hours 40 minutes 
+1,500 ml beer @thatsparrow  3 hours 21 minutes 
+250 ml vodka @rampageANNA 4 hours 2 minutes  
+200 ml water @AnonymousCoward 5 hours 19 minutes
+750 ml beer @sammy_ 3 hours 49 minutes

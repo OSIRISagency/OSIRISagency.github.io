@@ -35,10 +35,10 @@
    id="namedview63"
    showgrid="false"
    inkscape:zoom="1.6388889"
-   inkscape:cx="72"
+   inkscape:cx="71.486015"
    inkscape:cy="72"
    inkscape:window-x="0"
-   inkscape:window-y="0"
+   inkscape:window-y="38"
    inkscape:window-maximized="0"
    inkscape:current-layer="Layer_1" />
 <style
@@ -79,7 +79,7 @@
    class="st1"
    d="M54.5,54.5C42,67,20.7,66,9.6,54.9C2.9,48.1,2,27,14.5,14.5S48.8,3.6,54.9,9.6C66,20.7,67,42,54.5,54.5z"
    id="path18"
-   style="fill:#ff0000" />
+   style="fill:#b3b3b3" />
 <path
    class="st0"
    d="M141,67v10h-10V67H141 M144,64h-16v16h16V64z"
