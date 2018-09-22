@@ -21,8 +21,8 @@ Write a mergesort implementation in your choice of 2 languages. Share screenshot
 
 Leaderboard:    
 
-2,000 ml beer @flyAlex 2 hours 40 minutes 
-1,500 ml beer @thatsparrow  3 hours 21 minutes 
-250 ml vodka @rampageANNA 4 hours 2 minutes  
-200 ml water @AnonymousCoward 5 hours 19 minutes
-750 ml beer @sammy_ 3 hours 49 minutes
+2,000 ml beer @flyAlex 2 hours 15 minutes 
+1,500 ml beer @thatsparrow  2 hours 31 minutes 
+250 ml vodka @rampageANNA 3 hours 2 minutes  
+200 ml water @AnonymousCoward 4 hours 19 minutes
+750 ml beer @sammy_ 4 hours 49 minutes

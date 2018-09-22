@@ -15,6 +15,7 @@ img {
 body {
 	font-size: 16px;
 	line-height: 1.42857143;
+
 	background-color: #fff;
 	-webkit-text-size-adjust: none;
 	  font-family: "Quicksand", sans-serif;
@@ -1182,6 +1183,21 @@ i {
 	justify-content: center
 }
 
+mark1 {
+    background-color: none;
+    color: #CCCC00;
+}
+
+mark2 {
+    background-color: none;
+    color: #CD5C5C;
+}
+
+mark3 {
+    background-color: none;
+    color: #5F9EA0;
+}
+
 .wrapper .main-page {
 	/*background: #FFEEEE;  /* fallback for old browsers */
 	/*background: -webkit-linear-gradient(to right, #DDEFBB, #FFEEEE);  /* Chrome 10-25, Safari 5.1-6 */
@@ -1193,10 +1209,11 @@ i {
 	height: 700px;
 	display: flex;
 	flex-direction: column*/
+
 	overflow: hidden;
 	height: 80vh;
 	color: #000;
-	background-color: #fff;
+	background-color: #fff;	
 	background-image: url(http://osiris.agency/thatsparrow_int.svg);
 	background-repeat: no-repeat;
 	background-position: center 95%;
