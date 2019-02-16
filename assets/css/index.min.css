@@ -1,4 +1,4 @@
-﻿* {
+* {
 	margin: 0;
 	padding: 0;
 	outline: 0;
@@ -1211,7 +1211,7 @@ mark3 {
 	flex-direction: column*/
 
 	overflow: hidden;
-	height: 80vh;
+	height: 20vh
 	color: #000;
 	background-color: #fff;	
 	background-image: url(http://osiris.agency/thatsparrow_int.svg);
@@ -1231,9 +1231,9 @@ mark3 {
 
 .wrapper .main-page .main-text h1 {
 	font-size: 45px;
-	color: #000;
+	color: black;
 	line-height: 61px;
-	padding-top: 200px
+	padding-top: 100px
 }
 
 .wrapper .main-page .top_button {
